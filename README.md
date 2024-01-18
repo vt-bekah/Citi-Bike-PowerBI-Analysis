@@ -2,7 +2,7 @@
 
 This project takes the data compiled from Citi Bike's Jersey City publicly available source (https://s3.amazonaws.com/tripdata/index.html) and cleaned as part of the [Citi-Bike-Tableau Analysis project](https://github.com/vt-bekah/Citi-Bike-Tableau-Analysis) and creates some basic reports using Power BI. For more details on the data collection and cleaning, refer to that project. 
 
-The Power BI file (pbix) is large and thus not uploaded to this repository. The analysis files (2018-2022_JC-CitiBike_Analysis.pdf, 2018-2022_JC_CitiBike_Analysis.pptx) show the report views upon opening the file. The screenshots below indicate some of the interactive capability of the reports.
+The Power BI file (pbix) is large and thus not uploaded to this repository. The analysis files ([2018-2022_JC-CitiBike_Analysis.pdf](https://github.com/vt-bekah/Citi-Bike-PowerBI-Analysis/blob/main/2018-2022_JC-CitiBike_Analysis.pdf), [2018-2022_JC_CitiBike_Analysis.pptx](https://github.com/vt-bekah/Citi-Bike-PowerBI-Analysis/blob/main/2018-2022_JC_CitiBike_Analysis.pptx)) show the report views upon opening the file. The screenshots below indicate some of the interactive capability of the reports.
 
 ### Monthly Usage by Starting Station
 
